@@ -122,6 +122,8 @@ function Projects() {
 
         {/* Project 6 */}
 
+        {/* Project 6 */}
+
         <div className="project-card">
           <div className="project-icon">
             <FaGlobe />
@@ -142,12 +144,13 @@ function Projects() {
           </div>
 
           <a
-            href="https://github.com/LaxmiMounika"
+            href="https://github.com/LaxmiMounika-P/FUTURE_FS_01"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             className="github-link"
           >
-            View on GitHub <FaGithub />
+            ``` View Portfolio on GitHub <FaGithub />
+            ```
           </a>
         </div>
       </div>
