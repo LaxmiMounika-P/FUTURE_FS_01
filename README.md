@@ -60,8 +60,7 @@ npm start
 
 (Add your live website link here after deploying on Netlify or Vercel)
 
-Example:
-https://your-portfolio-link.netlify.app
+https://paluru-laxmi-mounika-portfolio.netlify.app/
 
 ---
 
